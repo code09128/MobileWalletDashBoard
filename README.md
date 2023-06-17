@@ -655,7 +655,7 @@ Design MobileWalletDashBoard UI demo
 ```
 
 ## button 1
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
@@ -667,7 +667,7 @@ Design MobileWalletDashBoard UI demo
 ```
 
 ## button 2
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
